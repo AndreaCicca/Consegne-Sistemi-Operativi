@@ -1,2 +1,2 @@
 # Sistemi-operativi
-dal corso di Informatica di Parma Fork
+Dal corso di Informatica di Parma Fork
