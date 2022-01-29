@@ -1,4 +1,6 @@
 # Sistemi-operativi
-Dal corso di Informatica di Parma Fork
+Dal corso di Informatica di Parma 
 
-A Gennaio aggiungo gli esercizi dell'anno accademico 2021
+Progetti 2020 e 2021 di Sistemi Operativi
+
+
