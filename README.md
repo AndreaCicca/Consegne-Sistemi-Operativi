@@ -3,9 +3,9 @@ Dal corso di Informatica di Parma
 
 Progetti 2020 e 2021 di Sistemi Operativi
 
-Le istruzioni per il progetto 2021 e su come testare le 3 specifiche del progetto si trovano nella relativa caltella
+Le istruzioni per il progetto 2021 e su info su come testare le 3 specifiche del riportate dal PDF si trovano nella relativa caltella
 
-Entrambi i progetti sono stati pensati per essere compilati in ambiente Unix/Posix
+Entrambi i progetti (2020-2021) sono stati pensati per essere compilati in un ambiente Unix/Posix
 
 Tree print
 ```
