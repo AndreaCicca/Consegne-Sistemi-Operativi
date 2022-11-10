@@ -1,5 +1,5 @@
-# Sistemi-operativi
-Dal corso di Informatica di Parma 
+# Sistemi-operativi-Progetti
+Progetti Sistemi Operativi triennale Inforamtica Unipr.
 
 Progetti 2020 e 2021 di Sistemi Operativi
 
