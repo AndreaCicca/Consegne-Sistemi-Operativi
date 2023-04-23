@@ -1,9 +1,9 @@
-# Sistemi-operativi-Progetti
+# Consegne progetto Sistemi operativi del Secondo anno del corso di Laurea di primo livello in Informatica Unipr.
 Progetti Sistemi Operativi triennale Inforamtica Unipr.
 
-Progetti 2020 e 2021 di Sistemi Operativi
+Progetti 2020 e 2021
 
-Le istruzioni per il progetto 2021 e su info su come testare le 3 specifiche del riportate dal PDF si trovano nella relativa caltella
+Le istruzioni per il progetto 2021 e le informazioni su come testare le 3 specifiche del riportate dal PDF si trovano nella relativa caltella
 
 Entrambi i progetti (2020-2021) sono stati pensati per essere compilati in un ambiente Unix/Posix
 
